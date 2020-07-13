@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, JD here. I am new to Git Hub and trying to learn the ropes.
+The files here are How-to files
